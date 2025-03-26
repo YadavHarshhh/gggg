@@ -136,4 +136,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Tailwind CSS for the modern UI framework
 - Font Awesome for the comprehensive icon set
 - Chart.js for powerful data visualization
-- The Flask community for the excellent web framework
+- The Flask community for the excellent web framework# jobu
